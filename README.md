@@ -1,2 +1,2 @@
-software dev <br>
-rtsp, dns, smtp, http hoster
+dev <br>
+networking, c, .net, cpp, embedded, ubuntu, custom llm, modder
