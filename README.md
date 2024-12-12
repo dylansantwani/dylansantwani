@@ -6,8 +6,8 @@ networking, c, .net, cpp, embedded, ubuntu, custom llm, modder
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dylansantwani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=cba6f7&ring_color=cba6f7&border_color=cdd6f4a&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dylansantwani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=cba6f7&ring_color=cba6f7&border_color=cdd6f4&hide_border=false" height="150" alt="languages graph"  />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dylansantwani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=cba6f7&ring_color=cba6f7&border_color=cdd6f4&hide_border=false" height="500" alt="languages graph"  />
 </div>
 
 ###
