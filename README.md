@@ -7,9 +7,8 @@ networking, c, .net, cpp, embedded, ubuntu, custom llm, modder
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylansantwani&size_weight=0.5&count_weight=0.5&langs_count=100&theme=midnight-purple" height="500" width="500" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylansantwani&size_weight=0.5&count_weight=0.5&langs_count=100&theme=midnight-purple" height="500" width="500" alt=""  />
 </div>
-<iframe src = "https://dylansantwani.com"></iframe>
 
 ###
 
