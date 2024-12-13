@@ -27,5 +27,6 @@ networking, c, .net, cpp, embedded, ubuntu, custom llm, modder
   <img width="12" />
   
 </div>
-
+email me to try my hacked stats + other
+dylansantwani@gmail.com
 ###
