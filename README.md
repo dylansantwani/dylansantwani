@@ -56,16 +56,11 @@ networking, c, .net, cpp, embedded, ubuntu, custom llm, modder
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="ruby logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="ruby on rails logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/smtp/smtp-original.svg" height="30" alt="smtp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ieee/ieee-original.svg" height="30" alt="ieee standards logo" />
 </div>
 
   
 </div>
-email me to try my hacked stats + other<br>
+email me to try my hacked stats + other<br><br><br>
 ###<br>
 dylansantwani@gmail.com<br>
 ###
