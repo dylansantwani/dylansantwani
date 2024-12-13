@@ -9,7 +9,7 @@ networking, c, .net, cpp, embedded, ubuntu, custom llm, modder
 
   <img src="https://mystats-five.vercel.app/" height="500" width="1000px" alt=""  />
 </div>
-><img src="https://streak-stats.demolab.com?user=dylansantwani&theme=midnight-purple&date_format=n%2Fj%5B%2FY%5D&exclude_days=Sun%2CSat" alt="" height="500" width="1000px" />
+<img src="https://streak-stats.demolab.com?user=dylansantwani&theme=midnight-purple&date_format=n%2Fj%5B%2FY%5D&exclude_days=Sun%2CSat" alt="" height="500" width="1000px" />
 ###
 
 <div align="center">
@@ -27,6 +27,7 @@ networking, c, .net, cpp, embedded, ubuntu, custom llm, modder
   <img width="12" />
   
 </div>
-email me to try my hacked stats + other
-dylansantwani@gmail.com
+email me to try my hacked stats + other<br>
+###<br>
+dylansantwani@gmail.com<br>
 ###
