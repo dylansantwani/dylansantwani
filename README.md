@@ -9,7 +9,7 @@ networking, c, .net, cpp, embedded, ubuntu, custom llm, modder
 
   <img src="https://mystats-five.vercel.app/" height="500" width="1000px" alt=""  />
 </div>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dylansantwani&theme=midnight-purple&date_format=n%2Fj%5B%2FY%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 ###
 
 <div align="center">
