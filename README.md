@@ -7,7 +7,7 @@ networking, c, .net, cpp, embedded, ubuntu, custom llm, modder
 
 <div align="center">
 
-  <img src="https://mystats-five.vercel.app/" height="500" width="1000px" alt=""  />
+  <img src="https://raw.githubusercontent.com/dylansantwani/dylansantwani/refs/heads/main/run.svg" height="500" width="1000px" alt=""  />
 </div>
 <img src="https://streak-stats.demolab.com?user=dylansantwani&theme=midnight-purple&date_format=n%2Fj%5B%2FY%5D&exclude_days=Sun%2CSat" alt="" height="500" width="1000px" />
 
