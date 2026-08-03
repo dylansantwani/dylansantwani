@@ -1,15 +1,17 @@
-dev <br>
+# dev
+
 networking, c, .net, cpp, embedded, ubuntu, custom llm, modder
-###
 
-
-###
+<hr />
 
 <div align="center">
 
   <img src="https://raw.githubusercontent.com/dylansantwani/dylansantwani/refs/heads/main/run.svg" height="500" width="1000px" alt=""  />
 </div>
-<img src="https://streak-stats.demolab.com?user=dylansantwani&theme=midnight-purple&date_format=n%2Fj%5B%2FY%5D&exclude_days=Sun%2CSat" alt="" height="500" width="1000px" />
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=dylansantwani&theme=midnight-purple&date_format=n%2Fj%5B%2FY%5D&exclude_days=Sun%2CSat" alt="" height="500" width="1000px" />
+</div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
@@ -54,9 +56,10 @@ networking, c, .net, cpp, embedded, ubuntu, custom llm, modder
   <img width="12" />
 </div>
 
-  
-</div>
-email me to try my hacked stats + other<br><br><br>
-###<br>
-dylansantwani@gmail.com<br>
-###
+<hr />
+
+email me to try my hacked stats + other
+
+[dylansantwani@gmail.com](mailto:dylansantwani@gmail.com)
+
+<hr />
