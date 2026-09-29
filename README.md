@@ -1,65 +1,19 @@
-# dev
+# Dylan Santwani
 
-networking, c, .net, cpp, embedded, ubuntu, custom llm, modder
+[dylansantwani.github.io](https://dylansantwani.github.io)
 
-<hr />
+### Projects
 
-<div align="center">
+- [Lattice](https://github.com/dylansantwani/lattice): a local-first desktop control room for long-running agent work
+- [openbrowser](https://github.com/dylansantwani/openbrowser): lets AI agents drive your real Chrome
+- [latchkey](https://github.com/dylansantwani/latchkey-public): signed-in headless Chrome sessions for agents
+- [bambu-cloud-mcp](https://github.com/dylansantwani/bambu-cloud-mcp): controls Bambu Lab 3D printers from any MCP client
+- [Oh My Pi Desktop](https://github.com/dylansantwani/oh-my-pi-desktop): a desktop client for the omp coding agent
+- [PowerFlow](https://github.com/dylansantwani/powerflow): live power flow in the macOS menu bar
 
-  <img src="https://raw.githubusercontent.com/dylansantwani/dylansantwani/refs/heads/main/run.svg" height="500" width="1000px" alt=""  />
-</div>
+### Writing
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=dylansantwani&theme=midnight-purple&date_format=n%2Fj%5B%2FY%5D&exclude_days=Sun%2CSat" alt="" height="500" width="1000px" />
-</div>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="30" alt="restful api logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="30" alt="ssh logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" height="30" alt="unix logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="30" alt="embedded c++ logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="30" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" alt="ruby logo" />
-  <img width="12" />
-</div>
-
-<hr />
-
-email me to try my hacked stats + other
+- [Beating the Index: sub-minute RAM arbitrage on eBay](https://dylansantwani.github.io/beating-the-index/) (2026)
+- [Effect of Prompt Phrasing on LLMs](https://github.com/dylansantwani/prompt-phrasing-llms) (2025)
 
 [dylansantwani@gmail.com](mailto:dylansantwani@gmail.com)
-
-<hr />
